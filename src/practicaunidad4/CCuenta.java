@@ -8,7 +8,7 @@ public class CCuenta {
     String cuenta;
     double saldo;
     double tipoInterés;
-    int i;
+    int i=9;
     int j;
 
     public CCuenta() {

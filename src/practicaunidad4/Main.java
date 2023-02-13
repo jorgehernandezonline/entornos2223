@@ -14,7 +14,7 @@ public class Main {
         CCuenta unaCuenta;
         double saldoActual;
         int opcion = 0;
-        int k=1;
+        int k=8;
         int p=29;
         unaCuenta = new CCuenta("María Serna", "1234-4321-12-123456789", 1300, 0);
         do {
